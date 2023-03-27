@@ -1,0 +1,10 @@
+C:\Users\enes\source\repos\alışveriş\bin\Debug\alışveriş.exe.config
+C:\Users\enes\source\repos\alışveriş\bin\Debug\alışveriş.exe
+C:\Users\enes\source\repos\alışveriş\bin\Debug\alışveriş.pdb
+C:\Users\enes\source\repos\alışveriş\obj\Debug\alışveriş.csproj.AssemblyReference.cache
+C:\Users\enes\source\repos\alışveriş\obj\Debug\alışveriş.Form1.resources
+C:\Users\enes\source\repos\alışveriş\obj\Debug\alışveriş.Properties.Resources.resources
+C:\Users\enes\source\repos\alışveriş\obj\Debug\alışveriş.csproj.GenerateResource.cache
+C:\Users\enes\source\repos\alışveriş\obj\Debug\alışveriş.csproj.CoreCompileInputs.cache
+C:\Users\enes\source\repos\alışveriş\obj\Debug\alışveriş.exe
+C:\Users\enes\source\repos\alışveriş\obj\Debug\alışveriş.pdb
